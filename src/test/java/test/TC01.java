@@ -10,7 +10,6 @@ public class TC01 {
     @Test
     public void main() {
         
-
         // Create a WebDriver instance
         WebDriver driver = driverFactory.getChromeDriver();
 
